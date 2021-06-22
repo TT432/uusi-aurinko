@@ -11,7 +11,7 @@ This mod is made by team Ilmarinen, which takes part in the 2021 TeaCon developm
 ## Documents
 Mod Design Document V1.0(Chinese): [ModDesign.pdf](https://github.com/LucunJi/uusi-aurinko/blob/master/documents/ModDesign.pdf)
 
-Devlog and other articles(Chinese): [UusiAurinko](https://lucunji.github.io/tags/UusiAurinko/)
+Devlog and other articles (Chinese): [UusiAurinko](https://lucunji.github.io/tags/UusiAurinko/)
 
 ## Terms of use
 This mod is published under [GPL-3.0 license](./LICENSE).
